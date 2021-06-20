@@ -1,5 +1,7 @@
 # Module-1 Introduction to Spark
-In this module, you will be able to discuss the core concepts of distributed computing and be able to recognize when and where to apply them. You'll be able to identify the basic data structure of Apache Spark™, known as a DataFrame. You will be able to use the collaborative Databricks workspace and write SQL code that executes against a cluster of machines.
+In this module, I learned how discuss the core concepts of distributed computing and be able to recognize when and where to apply them. 
+
+I was exposed to the basic data structure of Apache Spark™, known as a DataFrame. Then, I was introduced to use the collaborative Databricks workspace and write SQL code that executes against a cluster of machines.
 
 Useful Readings:
 1. [Spark SQL and Dataframes and Datasets Guides](https://spark.apache.org/docs/latest/sql-programming-guide.html)

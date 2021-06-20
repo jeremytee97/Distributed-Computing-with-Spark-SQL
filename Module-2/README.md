@@ -1,5 +1,5 @@
 # Module 2 - Spark Core Concepts
-In this module, you will be able to explain the core concepts of Spark, and increase query performance by caching your data and modifying Spark configurations. You will also be able to use the Spark UI to analyze performance and identify bottlenecks.
+In this module, I learned how to explain the core concepts of Spark, and increase query performance by caching data and modifying Spark configurations. I was also able to use the Spark UI to analyze performance and identify bottlenecks.
 
 Useful readings:
 
